@@ -13,6 +13,7 @@
                             <li><a href="#">教職維護</a></li>
                             <li><a href="#">1.教職維護</a></li>
                             <li class="active">1.2學期中新增</li>
+                            
                         </ol>
                     </div><!--/breadcrums-->
                 </div>
@@ -41,6 +42,7 @@
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#one" data-toggle="tab"><i class="fa fa-file"></i> 線上單筆新增</a></li>
                 <li><a href="#two" data-toggle="tab"><i class="fa fa-files-o"></i></i> 批次匯入</a></li>
+                <li><a href="#two" data-toggle="tab"><i class="fa fa-files-o"></i></i> TESTETS</a></li>
             </ul>
             <div class="tab-content">
                 <div class="tab-pane active" id="one">
